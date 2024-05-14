@@ -1,4 +1,5 @@
-<p align="center"><img src="assets/logo.svg" /></p>
+<p align="center" style="color-scheme: light;"><img src="assets/logo.svg" /></p>
+
 
 A general purpose, systems-level programming language focused on simplicity and performance.
 
